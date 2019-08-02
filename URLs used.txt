@@ -1,0 +1,11 @@
+URLs used
+
+Google cloud comic
+https://cloud.google.com/kubernetes-engine/kubernetes-comic/
+
+Find the container IP
+http://networkstatic.net/10-examples-of-how-to-get-docker-container-ip-address/
+
+Push and pull Images to google container registry
+https://cloud.google.com/container-registry/docs/pushing-and-pulling
+
